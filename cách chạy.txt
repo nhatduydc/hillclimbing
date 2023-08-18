@@ -1,0 +1,4 @@
+b1. mở file trên visual studio
+b2. chạy bằng terminal
+b3. gõ lệnh cd maze 
+b4. gõ lệnh pyhton maze.py maze1.txt
